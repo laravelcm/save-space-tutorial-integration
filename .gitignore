@@ -15,6 +15,10 @@
 # production
 /build
 
+# Editors
+/.idea
+/.vscode
+
 # misc
 .DS_Store
 *.pem
